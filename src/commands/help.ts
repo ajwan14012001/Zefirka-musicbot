@@ -12,7 +12,7 @@ export default {
         const helpEmbed = {
             color: 0xFFFFFF,
             title: 'Hey, you asked for help',
-            description: 'I am Zefirka - I play music for you!\nList of my commands:',
+            description: 'I am A14 Music Bot 2 - I play music for you!\nList of my commands:',
             fields: [
                 { name: '/help', value: 'Help command' },
                 { name: '/play', value: 'Start playing music' },
